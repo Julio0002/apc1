@@ -1,4 +1,4 @@
-# apc1# Algoritmos e Programação de Computadores I
+Algoritmos e Programação de Computadores
 
 Repositório criado para as aulas teóricas e atividades práticas da discipina de Algoritmos e Programação de Computadores I.
 
